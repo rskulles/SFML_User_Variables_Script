@@ -10,7 +10,7 @@ With WshShell.Environment("USER")
 End With
 
 With WshShell.Environment("USER")
-.item("Path")="C:\Program Files (x86)\SFML\lib"
+.item("SFML_LIB")="C:\Program Files (x86)\SFML\lib"
 End With
 
 With WshShell.Environment("USER")
