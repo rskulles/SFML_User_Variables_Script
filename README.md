@@ -9,7 +9,7 @@ to the needed libraries to run SFML apps.
 
 ##Which version of windows does this work on?
 
-It is compatible with Windows 8+ systems. Other versions of Windows are not supported at this time.
+It is compatible with Windows 8+ systems. Other versions of Windows are untested at this time.
 
 ##Why do I need this?
 
