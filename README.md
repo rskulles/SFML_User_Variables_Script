@@ -25,7 +25,7 @@ To run the script, just double-click on the script itself. DO THIS ONLY ONCE! Ru
 
 ##How do I know it worked?
 
-Download my Visual Studio 2013 Project [on GitHub](https://github.com/rskulles/SFML_User_Variables_Script), build and run it.
+Download my Visual Studio 2013 Project [on GitHub](https://github.com/rskulles/SFML_User_Variables_Script), build and run it. You will also need to have SFML installed to your C: drive under Program Files (x86)/SFML.
 	
 ###or
 
